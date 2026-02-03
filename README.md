@@ -4,7 +4,7 @@ CONTENT WARNING SHADER - COMING SOON
 
 PROJECT STATUS: IN DEVELOPMENT
 
-This professional-grade Blender addon and Python script suite is currently
+Blender addon and Python script suite is currently
 in active development and will be released to GitHub soon.
 
 
